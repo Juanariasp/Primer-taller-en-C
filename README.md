@@ -1,2 +1,18 @@
-# Primer-taller-en-C
-Serie de programas básicos en C, utilizando la modularidad de interfaces. 
+---
+# **Primer-taller-en-C**
+---
+<div> 
+<img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1455514364/pim02bzqvgz0hibsra41.png" align="right"><br><br><FONT FACE="times new roman" SIZE=5>
+<b>Regresion Lineal Python </b> <br>
+<i><b>Autores:</b></i><br> Juan Esteban Arias Patron <br>
+<i><b>Asignatura:</b></i> Machine Learning en Computación Avanzada <br>
+<i><b>Docente:</b></i> John Corredor, PhD <br>
+14/08/2022
+<br><br><br>
+</FONT>
+</div>
+
+*   Carpeta /Regresion Lineal C++ 
+> En esta carpeta se encuentran todos los ficheros fuentes del programa LR en C++, incluyendo las clases (.cpp) y sus correspondientes interfaces (.h)  
+*   Carpeta /Regresion Lineal Python
+> Se encuentra un cuaderno notebook (.ipynb) donde presenta la verificación de los coeficientes de LR dados por SkLearn
