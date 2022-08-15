@@ -7,7 +7,7 @@
 <i><b>Autor:</b></i> Juan Esteban Arias Patron <br>
 <i><b>Asignatura:</b></i> Computación Paralela y Distribuida <br>
 <i><b>Docente:</b></i> John Corredor, PhD <br>
-16/08/2022
+ <i><b>Fecha:</b></i> 16/08/2022
 <br><br><br>
 </FONT>
 </div>
