@@ -3,11 +3,11 @@
 ---
 <div> 
 <img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1455514364/pim02bzqvgz0hibsra41.png" align="right"><br><br><FONT FACE="times new roman" SIZE=5>
-<b>Regresion Lineal Python </b> <br>
+<b>Programas en C </b> <br>
 <i><b>Autores:</b></i><br> Juan Esteban Arias Patron <br>
-<i><b>Asignatura:</b></i> Machine Learning en Computación Avanzada <br>
+<i><b>Asignatura:</b></i> Computación Paralela y Distribuida <br>
 <i><b>Docente:</b></i> John Corredor, PhD <br>
-14/08/2022
+16/08/2022
 <br><br><br>
 </FONT>
 </div>
