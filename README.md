@@ -13,7 +13,10 @@
 </div>
 
 *   CONTENIDO
-> En esta carpeta se encuentran todos los ficheros fuentes del programa LR en C++, incluyendo las clases (.cpp) y sus correspondientes interfaces (.h)  
+> taller.c: Clase principal del programa con el main. 
+> <br>
+> funciones_taller.c: Este archivo tendrá la lógica, la implementación y funciones de los métodos en el archivo cabecera. 
+> funciones_taller.h: Interfaz, el cual definirá los métodos a implementar. 
 
 
 *   RESUMEN
@@ -24,10 +27,8 @@
 
 *   DESARROLLO - METODOLOGIA
 > Entorno de desarrollo: Visual Studio Code
+<br>
 > Para el desarrollo de los ejercicios es necesario instalar el compilador gcc para el lenguaje C mediante $ sudo apt-get install gcc. 
-> taller.c: Clase principal del programa con el main. 
-> funciones_taller.c: Este archivo tendrá la lógica, la implementación y funciones de los métodos en el archivo cabecera. 
-> funciones_taller.h: Interfaz, el cual definirá los métodos a implementar. 
 
 
 *   CONCLUCIONES
