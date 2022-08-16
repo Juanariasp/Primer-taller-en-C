@@ -16,8 +16,10 @@
 > taller.c: Clase principal del programa con el main. 
 > <br>
 > funciones_taller.c: Este archivo tendrá la lógica, la implementación y funciones de los métodos en el archivo cabecera. 
+> <br>
 > funciones_taller.h: Interfaz, el cual definirá los métodos a implementar. 
-
+> <br>
+> Makefile: Un fichero makefile contiene las órdenes que debe ejecutar la utilidad make, así como las dependencias entre los distintos módulos del proyecto. Este archivo de descripción es un fichero de texto. 
 
 *   RESUMEN
 > Para demostrar la funcionalidad y las herramientas que ofrecen las herramientas, se realizaran aplicaciones en C desde Ubuntu, para determinar su eficiencia.
@@ -27,8 +29,8 @@
 
 *   DESARROLLO - METODOLOGIA
 > Entorno de desarrollo: Visual Studio Code
-<br>
-> Para el desarrollo de los ejercicios es necesario instalar el compilador gcc para el lenguaje C mediante $ sudo apt-get install gcc. 
+> <br>
+> Para el desarrollo de los ejercicios es necesario instalar el compilador gcc para el lenguaje C mediante: $ sudo apt-get install gcc. 
 
 
 *   CONCLUCIONES
