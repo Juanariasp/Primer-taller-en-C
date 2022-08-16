@@ -17,13 +17,13 @@
 
 
 *   RESUMEN
-> Se encuentra un cuaderno notebook (.ipynb) donde presenta la verificación de los coeficientes de LR dados por SkLearn
+> Para demostrar la funcionalidad y las herramientas que ofrecen las herramientas, se realizaran aplicaciones en C desde Ubuntu, para determinar su eficiencia.
 
 *   INTRODUCCION
-> Se encuentra un cuaderno notebook (.ipynb) donde presenta la verificación de los coeficientes de LR dados por SkLearn
+> Para el desarrollo de este taller hay que tener en cuenta varias herramientas las cuales serán el entorno de trabajo y en donde se ejecutarán cada una de las aplicaciones propuestas en clase. Primeramente, se dará una breve definición del lo que es el Lenguaje C, una vez con esto claro se definirá la distribución de Linux llamada Ubuntu, el cual será nuestro sistema operativo que nos ayudará a la instalación de paquetes y herramientas para el desarrollo de esta práctica. 
 
 *   DESARROLLO - METODOLOGIA
-> Se encuentra un cuaderno notebook (.ipynb) donde presenta la verificación de los coeficientes de LR dados por SkLearn
+> Entorno de desarrollo: Visual Studio Code
 
 *   CONCLUCIONES
 > Se encuentra un cuaderno notebook (.ipynb) donde presenta la verificación de los coeficientes de LR dados por SkLearn
