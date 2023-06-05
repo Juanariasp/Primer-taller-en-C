@@ -12,33 +12,40 @@
 </FONT>
 </div>
 
-*   CONTENIDO
-> taller.c: Clase principal del programa con el main. 
-> <br>
-> funciones_taller.c: Este archivo tendrá la lógica, la implementación y funciones de los métodos en el archivo cabecera. 
-> <br>
-> funciones_taller.h: Interfaz, el cual definirá los métodos a implementar. 
-> <br>
-> Makefile: Un fichero makefile contiene las órdenes que debe ejecutar la utilidad make, así como las dependencias entre los distintos módulos del proyecto. Este archivo de descripción es un fichero de texto. 
+## Contenido
 
-*   RESUMEN
-> Para demostrar la funcionalidad y las herramientas que ofrecen las herramientas, se realizaran aplicaciones en C desde Ubuntu, para determinar su eficiencia.
+- `taller.c`: Clase principal del programa con el main.
+- `funciones_taller.c`: Archivo que contiene la lógica, implementación y funciones de los métodos definidos en el archivo de cabecera.
+- `funciones_taller.h`: Archivo de interfaz que define los métodos a implementar.
+- `Makefile`: Archivo de descripción utilizado por la utilidad `make` para compilar el proyecto y manejar las dependencias entre los módulos.
 
-*   INTRODUCCION
-> Para el desarrollo de este taller hay que tener en cuenta varias herramientas las cuales serán el entorno de trabajo y en donde se ejecutarán cada una de las aplicaciones propuestas en clase. Primeramente, se dará una breve definición del lo que es el Lenguaje C, una vez con esto claro se definirá la distribución de Linux llamada Ubuntu, el cual será nuestro sistema operativo que nos ayudará a la instalación de paquetes y herramientas para el desarrollo de esta práctica. 
+## Resumen
 
-*   DESARROLLO - METODOLOGIA
-> Entorno de desarrollo: Visual Studio Code
-> <br>
-> Para el desarrollo de los ejercicios es necesario instalar el compilador gcc para el lenguaje C mediante: $ sudo apt-get install gcc. 
+El objetivo de este taller es demostrar la funcionalidad y las herramientas que ofrece el lenguaje C para el desarrollo de aplicaciones en el entorno Ubuntu. Se realizarán aplicaciones en C para determinar su eficiencia.
 
+## Introducción
 
-*   CONCLUCIONES
-> Se concluye que el lenguaje C es muy útil ya que maneja el paradigma imperativo, funcional, lógico y orientado a objetos. A pesar de que no todos los paradigmas mencionados anteriormente fueron utilizados en esta práctica, se obtuvieron los resultados esperados y se llegó a la finalización exitosa del taller. 
+En este taller se utilizarán varias herramientas, incluyendo el entorno de desarrollo Visual Studio Code. Además, es necesario tener instalado el compilador GCC para el lenguaje C, el cual se puede obtener en Ubuntu ejecutando el siguiente comando:
 
-*   REFERENCIAS
-> https://cs.uns.edu.ar/~ldm/mypage/data/oc/apuntes/2019-apunte1.pdf 
-> https://ubuntu-co.com/ 
-> https://openwebinars.net/blog/que-es-c/ 
-> https://www.enter.co/especiales/dev/que-debes-tener-en-cuenta-para-aprender-lenguaje-c/
->http://www.it.uc3m.es/~pedmume/asignaturas/2005/LAO/Lab2/tutorial4/node4.html#:~:text=Un%20fichero%20makefile%20contiene%20las,las%20l%C3%ADneas%20b%C3%A1sicas%20son%20similares. 
+```shell
+$ sudo apt-get install gcc
+```
+
+## Desarrollo - Metodología
+
+- Entorno de desarrollo: Visual Studio Code
+- Compilador: GCC
+Para el desarrollo de los ejercicios se recomienda utilizar el entorno Visual Studio Code y tener instalado el compilador GCC en el sistema.
+
+## Conclusiones
+
+En este taller se ha trabajado con el lenguaje C, el cual es muy útil ya que soporta múltiples paradigmas de programación, como el imperativo, funcional, lógico y orientado a objetos. Aunque en esta práctica no se hayan utilizado todos los paradigmas mencionados, se han obtenido los resultados esperados y se ha completado el taller exitosamente.
+
+## Referencias
+
+- [Apuntes de programación en C](https://cs.uns.edu.ar/~ldm/mypage/data/oc/apuntes/2019-apunte1.pdf)
+- [Ubuntu](https://ubuntu-co.com/)
+- [¿Qué es C?](https://openwebinars.net/blog/que-es-c/)
+- [Consejos para aprender lenguaje C](https://www.enter.co/especiales/dev/que-debes-tener-en-cuenta-para-aprender-lenguaje-c/)
+- [Tutorial sobre makefiles](http://www.it.uc3m.es/~pedmume/asignaturas/2005/LAO/Lab2/tutorial4/node4.html)
+
